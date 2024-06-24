@@ -1,0 +1,36 @@
+# My Awesome Next.js Project
+
+Welcome to my Next.js project! This README will guide you through the steps to set up and deploy the project. Follow along to create a robust application with social and email authentication, TailwindCSS for styling, PostgreSQL with Drizzle ORM, AI integration using Google Gemini API, and more.
+
+## Table of Contents
+
+- [Getting Started](#getting-started)
+- [Prerequisites](#prerequisites)
+- [Installation](#installation)
+- [Authentication Setup](#authentication-setup)
+- [Styling with TailwindCSS](#styling-with-tailwindcss)
+- [Database Setup](#database-setup)
+- [AI Integration](#ai-integration)
+- [Recording and Saving User Responses](#recording-and-saving-user-responses)
+- [Deployment](#deployment)
+- [Dashboard](#dashboard)
+
+## Getting Started
+
+To start the project, navigate to the Dashboard section for detailed instructions.
+
+## Prerequisites
+
+Make sure you have the following installed on your local development environment:
+
+- Node.js
+- npm or yarn
+- PostgreSQL
+
+## Installation
+
+1. **Create a Next.js Application:**
+
+   ```bash
+   npx create-next-app@latest
+   cd your-next-app
